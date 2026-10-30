@@ -1,0 +1,14 @@
+{
+  "name": "trustwork-platform",
+  "version": "1.0.0",
+  "description": "TrustWork - Student project verification, fair reward splitting and RBI-compliant escrow platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["platform", "escrow", "rbi", "student-projects", "github", "linkedin"],
+  "author": "TrustWork Team",
+  "license": "MIT"
+}
+
